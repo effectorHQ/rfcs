@@ -1,6 +1,6 @@
 # effectorHQ RFCs
 
-[![License: CC-BY-4.0](https://img.shields.io/badge/license-CC--BY--4.0-green.svg)](LICENSE)
+[![License: CC-BY-4.0](https://img.shields.io/badge/license-CC--BY--4.0-green.svg)](LICENSE.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/.github/blob/main/CONTRIBUTING.md)
 
 **[中文文档 →](./README.zh.md)**
@@ -55,7 +55,6 @@ This process draws from [Rust RFCs](https://github.com/rust-lang/rfcs), [React R
 
 ## License
 
+This project is currently licensed under the [Apache License, Version 2.0](LICENSE.md) 。
 
-This project is currently licensed under the Apache 2.0 License 。
-
-[CC-BY-4.0](./LICENSE) — Same as all effectorHQ documentation.
+[CC-BY-4.0](./LICENSE.md) — Same as all effectorHQ documentation.
