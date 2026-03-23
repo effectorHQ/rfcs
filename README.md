@@ -55,4 +55,7 @@ This process draws from [Rust RFCs](https://github.com/rust-lang/rfcs), [React R
 
 ## License
 
+
+This project is currently licensed under the Apache 2.0 License 。
+
 [CC-BY-4.0](./LICENSE) — Same as all effectorHQ documentation.
